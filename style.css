@@ -1,0 +1,16 @@
+.link {
+  color: blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+}
+
+.link:hover {
+  color: red;
+  font-size: 25px;
+}
+
+.header {
+  color: rgb(20, 20, 20);
+  font-size: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
